@@ -6,8 +6,11 @@ ORCS stands for Online Roleplaying Character Sheets, it is basically an online d
 Version 1 is quite simple, just a login facility, select a sheet, or create a new one, and then basic CRUD operations on the data. The tasks you will be able to perform are:
 
 C - Create new character sheet (will require internet access to create new sheets)
+
 R - Read character sheet from database or local storage if offline when loading
+
 U - Update character sheet
+
 D - Delete character.
 
 
@@ -26,6 +29,9 @@ The front end will be running as a single page application (SPA) - this will the
 -----------------------------------------------
 
 Change log
+
+v0.1.1 - 7/6/2017
+added mongoDB driver for ASP.Net MVC
 
 v0.1.0 - 7/6/2017
 First Commit - This is a training application using the github extention to visual studio 2017. 
