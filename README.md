@@ -30,6 +30,8 @@ The front end will be running as a single page application (SPA) - this will the
 
 Change log
 
+Note: this project will use semantic versioning (see http://semver.org/ for more info on semantic versioning schema)
+
 v0.1.1 - 7/6/2017
 added mongoDB driver for ASP.Net MVC
 
